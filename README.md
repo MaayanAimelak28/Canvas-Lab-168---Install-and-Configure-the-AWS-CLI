@@ -28,39 +28,39 @@ Access IAM by using the AWS CLI.
 
 ## More queries in Task 5:
 
-query the details of your subnets:
+Query the details of your subnets:
 
 #### aws ec2 describe-subnets
 
-query the details of your route tables:
+Query the details of your route tables:
 
 #### aws ec2 describe-route-tables
 
-query the details of your EC2's:
+Query the details of your EC2's:
 
 #### aws ec2 describe-instance
 
-query the details of your VPC's:
+Query the details of your VPC's:
 
 #### aws ec2 describe-vpcs
 
-query the details of your security group:
+Query the details of your security group:
 
 #### aws ec2 describe-security-groups
 
-query the details of user groups:
+Query the details of user groups:
 
 #### aws iam list-groups
 
-query the details of users:
+Query the details of users:
 
 #### aws iam list-users
 
-query the details of the policies:
+Query the details of the policies:
 
 #### aws iam list-policies
 
-query the details of the roles:
+Query the details of the roles:
 
 #### aws iam list-roles
 
